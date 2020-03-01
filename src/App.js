@@ -62,7 +62,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>TATL test task</h1>
+      <h1>TATL Technology test task, v.2</h1>
       <button className="btn" onClick={togglePopUp}>
         Добавить запись
       </button>
