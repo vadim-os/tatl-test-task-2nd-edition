@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tatl-test-task-2nd-edition/precache-manifest.a7b6d1233eb38067fc49085131e60596.js"
+  "/tatl-test-task-2nd-edition/precache-manifest.19e0ff59b3fe0190ef670996f156afe9.js"
 );
 
 self.addEventListener('message', (event) => {
