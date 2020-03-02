@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tatl-test-task-2nd-edition/static/css/main.10eea089.chunk.css",
+    "main.css": "/tatl-test-task-2nd-edition/static/css/main.ebd07a04.chunk.css",
     "main.js": "/tatl-test-task-2nd-edition/static/js/main.a94f1166.chunk.js",
     "main.js.map": "/tatl-test-task-2nd-edition/static/js/main.a94f1166.chunk.js.map",
     "runtime-main.js": "/tatl-test-task-2nd-edition/static/js/runtime-main.73e8ce45.js",
@@ -8,15 +8,15 @@
     "static/js/2.348b9e26.chunk.js": "/tatl-test-task-2nd-edition/static/js/2.348b9e26.chunk.js",
     "static/js/2.348b9e26.chunk.js.map": "/tatl-test-task-2nd-edition/static/js/2.348b9e26.chunk.js.map",
     "index.html": "/tatl-test-task-2nd-edition/index.html",
-    "precache-manifest.19e0ff59b3fe0190ef670996f156afe9.js": "/tatl-test-task-2nd-edition/precache-manifest.19e0ff59b3fe0190ef670996f156afe9.js",
+    "precache-manifest.8fb39b8757102001aadb442377c9a970.js": "/tatl-test-task-2nd-edition/precache-manifest.8fb39b8757102001aadb442377c9a970.js",
     "service-worker.js": "/tatl-test-task-2nd-edition/service-worker.js",
-    "static/css/main.10eea089.chunk.css.map": "/tatl-test-task-2nd-edition/static/css/main.10eea089.chunk.css.map",
+    "static/css/main.ebd07a04.chunk.css.map": "/tatl-test-task-2nd-edition/static/css/main.ebd07a04.chunk.css.map",
     "static/js/2.348b9e26.chunk.js.LICENSE.txt": "/tatl-test-task-2nd-edition/static/js/2.348b9e26.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.73e8ce45.js",
     "static/js/2.348b9e26.chunk.js",
-    "static/css/main.10eea089.chunk.css",
+    "static/css/main.ebd07a04.chunk.css",
     "static/js/main.a94f1166.chunk.js"
   ]
 }
